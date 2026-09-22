@@ -1,1 +1,2 @@
-# SC_302_Documentacion_MN_Sebasti-n_Acevedo_Espinoza
+# Esta es mi primera práctica con GitHub.
+
